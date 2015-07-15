@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ClassLibrary6")]
+[assembly: AssemblyTitle("ClassLibrary6.MSTest.UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ClassLibrary6")]
+[assembly: AssemblyProduct("ClassLibrary6.MSTest.UnitTests")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("75e2f204-4e5b-418c-bbb7-1b2c2f052239")]
+[assembly: Guid("fb0e1a85-81d4-4057-a02b-723cab9131b4")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -34,8 +34,3 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: InternalsVisibleTo("ClassLibrary6.Tests")]
-[assembly: InternalsVisibleTo("ClassLibrary6.Explorables")]
-[assembly: InternalsVisibleTo("ClassLibrary6.Tests2")]
-[assembly: InternalsVisibleTo("ClassLibrary6.MsTest.IntelliTests")]
-
